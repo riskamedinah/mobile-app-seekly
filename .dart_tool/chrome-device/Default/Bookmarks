@@ -1,0 +1,95 @@
+{
+   "checksum": "95575a7c876e9f45741dc9a5b5ccb277",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13174986335701703",
+            "date_last_used": "0",
+            "guid": "bbb0b485-506a-42a2-b8f5-7b438904564a",
+            "id": "7",
+            "name": "Google Play Store - apps free mobile",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://sites.google.com/site/appsfreemobile16mt/google-play-store",
+            "visit_count": 0
+         }, {
+            "date_added": "13296986460385663",
+            "date_last_used": "0",
+            "guid": "c1dc0762-f450-490d-b13e-1a9e67b60dff",
+            "id": "8",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 0
+         }, {
+            "date_added": "13296986460447179",
+            "date_last_used": "0",
+            "guid": "3bd303bb-6180-41ba-9d8a-49a618810048",
+            "id": "9",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13296986460447962",
+            "date_last_used": "0",
+            "guid": "b77ad4e3-70bb-426f-a038-70f1d74c1689",
+            "id": "10",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         } ],
+         "date_added": "13389847097756704",
+         "date_last_used": "0",
+         "date_modified": "13296986460447962",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13389847097756716",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13238878180093666",
+            "date_last_used": "0",
+            "guid": "aae7b220-58f4-4152-8359-917a438f1554",
+            "id": "6",
+            "name": "Otak Otaku - Berita dan Ensiklopedia Anime Indonesia Terlengkap dan Terupdate",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://otakotaku.com/",
+            "visit_count": 0
+         } ],
+         "date_added": "13389847097756719",
+         "date_last_used": "0",
+         "date_modified": "13238878180093666",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCAp7tSGSAQAAEgAqGGVESVdDajRPQStEb0VVc2xWTzcwZ1E9PUgDoAYHEq0BCAkSqAEKHERBaVNCb25CQkUrTHR6cVJNWDhqTFVUZWtyST0SJDNiZDMwM2JiLTYxODAtNDFiYS05ZDhhLTQ5YTYxODgxMDA0OBgAIAAoADCJ9tWNojI44YHWjaIyQOGB1o2iMkoceGYrUUxnKy82TDVxd1RiaUFWNDdYTzM5cytrPVofIh25a3c1dmhFeEVINUk4bDVJQVU5QjUwTVZKcGNRPWUYDk0wwj4CYAUSrAEICBKnAQocOHgwWXNnU1NYWXBkWHN2Q2J0ZjZ6THRsRGlvPRIkYzFkYzA3NjItZjQ1MC00OTBkLWIxM2UtMWE5ZTY3YjYwZGZmGAAgACgAMIj21Y2iMjjCgdaNojJAwoHWjaIyShxmUW43MGtUUmJuaXQ4Wk1sSHllcWZNb2V0ME09Wh4iHHNKUU8xcnNNWmJmN0Ruak1lWCtUKytlSFVoND1lQu0LPsI+AmAFEqwBCAcSpwEKHEpXS0hjTzBoV2hQc0JtQjFVSHZ5MVVwc0ZFOD0SJGJiYjBiNDg1LTUwNmEtNDJhMi1iOGY1LTdiNDM4OTA0NTY0YRgAIAAoADCH9tWNojI4pIHWjaIyQKSB1o2iMkocUkhhc2diSU9IYWpadjRIS1dmMmJnVTdYZVVrPVoeIhxVbFU4eWxBcTEvdVhucjlRYUx5bjZ0cjc1WVk9ZQAAAADCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ4YTgyOWMwMi05ZGUzLTVlYjktOThmYi0xZWY3YmNmMzA2NWIYACAAKAAwtbvVjaIyOOnA1Y2iMkDpwNWNojJKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrAEIBhKnAQocbWVQVXNVblVLRkk1N0dCRUlrNjB2bkMrVk9jPRIkYWFlN2IyMjAtNThmNC00MTUyLTgzNTktOTE3YTQzOGYxNTU0GAAgACgAMIX21Y2iMjjpgNaNojJA6YDWjaIyShw5TS8vTHozd0RFNTAvZm8zOE9jTlJDYUx3a2s9Wh4iHFRhZXNxRUkvSmtXWEViUUw4SHp1MnYwUHMzbz1lYHGJIMI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDEyZjhmYTU3LTMyZmQtNTk3Zi05YjRhLWM1ZjRhODQwOGRjOBgAIAAoADC0u9WNojI4ycDVjaIyQMnA1Y2iMkocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKtAQgKEqgBChxqWGM4WnRxaDZCZW1wUnFCaFBlY2NQSURya0U9EiRiNzdhZDRlMy03MGJiLTQyNmYtYTAzOC03MGYxZDc0YzE2ODkYACAAKAAwhvbVjaIyOIaB1o2iMkCGgdaNojJKHE93T040aktzV1RPZTZuTllBSkRjZkVOdzZqRT1aHyId3FFCOGgzWnhoT2dsN3R3WUNBTWlFTnB6RUhnYz1lnpCbgsI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGQ2ZjNiMTAwLWUxZGYtNWM4MC1hYzBiLWVkMjIyOTUwMTY3NhgAIAAoADC6u9WNojI4qsHVjaIyQKrB1Y2iMkoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
