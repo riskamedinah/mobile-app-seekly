@@ -1,4 +1,0 @@
-*.dart linguist-detectable=true
-android/** linguist-vendored
-ios/** linguist-vendored
-build/** linguist-generated
