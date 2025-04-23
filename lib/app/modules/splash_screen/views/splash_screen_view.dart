@@ -15,7 +15,7 @@ class _SplashScreenViewState extends State<SplashScreenView>
   void initState() {
     super.initState();
 
-    Future.delayed(Duration(seconds: 3), () {
+    Future.delayed(Duration(seconds: 5), () {
       Get.offNamed('/login');
     });
   }
