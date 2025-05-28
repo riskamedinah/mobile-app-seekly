@@ -1,23 +1,18 @@
 import 'package:get/get.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 class HomeController extends GetxController {
-  //TODO: Implement HomeController
+  RxList<DocumentSnapshot> posts = <DocumentSnapshot>[].obs;
 
-  final count = 0.obs;
   @override
   void onInit() {
     super.onInit();
+    FirebaseFirestore.instance
+        .collection('posts')
+        .orderBy('createdAt', descending: true)
+        .snapshots()
+        .listen((snapshot) {
+      posts.value = snapshot.docs;
+    });
   }
-
-  @override
-  void onReady() {
-    super.onReady();
-  }
-
-  @override
-  void onClose() {
-    super.onClose();
-  }
-
-  void increment() => count.value++;
 }

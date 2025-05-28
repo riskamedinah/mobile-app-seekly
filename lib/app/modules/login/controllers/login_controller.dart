@@ -1,23 +1,34 @@
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:seekly/app/data/firebase_auth_service.dart';
 
 class LoginController extends GetxController {
-  //TODO: Implement LoginController
+  final emailController = TextEditingController();
+  final passwordController = TextEditingController();
+  final isPasswordHidden = true.obs;
+  final isLoading = false.obs;
 
-  final count = 0.obs;
-  @override
-  void onInit() {
-    super.onInit();
+  final _authService = FirebaseAuthService();
+
+  void togglePasswordVisibility() {
+    isPasswordHidden.value = !isPasswordHidden.value;
   }
 
-  @override
-  void onReady() {
-    super.onReady();
+  Future<void> login() async {
+    isLoading.value = true;
+    try {
+      final user = await _authService.login(
+        emailController.text.trim(),
+        passwordController.text.trim(),
+      );
+      if (user != null) {
+        Get.snackbar("Berhasil", "Login berhasil!");
+        Get.offAllNamed('/navbar'); // arahkan ke halaman home
+      }
+    } catch (e) {
+      Get.snackbar("Gagal", e.toString(), backgroundColor: Colors.red, colorText: Colors.white);
+    } finally {
+      isLoading.value = false;
+    }
   }
-
-  @override
-  void onClose() {
-    super.onClose();
-  }
-
-  void increment() => count.value++;
 }

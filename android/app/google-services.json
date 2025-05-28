@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786281632576",
+    "project_id": "seekly-mobile-apps",
+    "storage_bucket": "seekly-mobile-apps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786281632576:android:ec1ab360331e76a2b4a0a5",
+        "android_client_info": {
+          "package_name": "u1.seekly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJab4uKSW5HD_zMWPIDxt73LYaimJb4Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

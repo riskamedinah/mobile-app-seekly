@@ -1,0 +1,2 @@
+C:/Users/MyBook Hype AMD/seekly/android/app/.cxx/Debug/1w33i4o2/x86/CMakeFiles/edit_cache.dir
+C:/Users/MyBook Hype AMD/seekly/android/app/.cxx/Debug/1w33i4o2/x86/CMakeFiles/rebuild_cache.dir
